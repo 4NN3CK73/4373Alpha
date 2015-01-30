@@ -1,0 +1,12 @@
+{
+    "name": "4nn3ck/4373alpha",
+    "description": "The alpha project",
+    "license": "CC",
+    "authors": [
+        {
+            "name": "André",
+            "email": "4nn3ck@gmail.com"
+        }
+    ],
+    "require": {}
+}
