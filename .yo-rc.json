@@ -1,0 +1,20 @@
+{
+  "generator-yeogurt": {
+    "config": {
+      "projectName": "4373Alpha",
+      "versionControl": "git",
+      "useServer": false,
+      "singlePageApplication": false,
+      "htmlOption": "jade",
+      "jsOption": "browserify",
+      "cssOption": "less",
+      "useJsdoc": true,
+      "useKss": true,
+      "useDashboard": true,
+      "useTesting": true,
+      "testFramework": "jasmine"
+    },
+    "version": "0.14.2"
+  },
+  "generator-mocha": {}
+}
